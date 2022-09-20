@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on a game
 - 🌱 I’m currently learning C#
-- 📫 📫 Reach me at andr3wkm123@gmail.com
+- 📫 Reach me at andr3wkm123@gmail.com
