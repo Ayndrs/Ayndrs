@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayndrs&label=Profile%20views&color=4dbbff&style=flat" alt="Ayndrs" /> </p>
+
 - 🔭 I’m currently working on a game
 - 🌱 I’m currently learning C#
 - 📫 Reach me at andr3wkm123@gmail.com
