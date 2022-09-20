@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/YNZF4KL.gif">
+<img align="right" alt="Coding" width="250" src="https://i.imgur.com/YNZF4KL.gif">
 
 - 🔭 I’m currently working on a game
 - 🌱 I’m currently learning C#
