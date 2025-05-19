@@ -1,7 +1,5 @@
 <img align="right" alt="Coding" width="250" src="https://i.imgur.com/kfVtFkE.jpg">
 
-- 🔭 I’m currently working on a game
-- 🌱 I’m currently learning C#
 - 📫 Reach me at andr3wkm123@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
