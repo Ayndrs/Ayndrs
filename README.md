@@ -1,6 +1,7 @@
 <img align="right" alt="Coding" width="250" src="https://i.imgur.com/kfVtFkE.jpg">
 
 - 📫 Reach me at andr3wkm123@gmail.com
+- 📚 I'm currently learning Three.js
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gohyun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gohyun" height="30" width="40" /></a>
