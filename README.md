@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="250" src="https://i.imgur.com/kfVtFkE.jpg">
+[][<img align="right" alt="Coding" width="250" src="https://i.imgur.com/kfVtFkE.jpg">]
 
 - 📫 Reach me at andr3wkm123@gmail.com
 - 📚 I'm currently learning Three.js
