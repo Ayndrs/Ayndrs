@@ -11,7 +11,7 @@ I enjoy building things for the web, exploring
 new technologies, and creating cool experiences.
 
 - Interested in creative coding and design
-- Outside of coding, I enjoy drawing and guitar
+- My hobbies include drawing and guitar
 
 ### connect with me
 
