@@ -33,10 +33,3 @@ new technologies, and creating cool experiences.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices)
 ![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=flat-square&logo=databricks)
-
----
-
-### a little more about me
-
-When I'm not writing code, you'll probably find me
-drawing, playing guitar, or working on random side projects.
